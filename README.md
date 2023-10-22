@@ -115,14 +115,21 @@ np.mean(predict(res.x,X)==y)
 ```
 
 ## Output:
+### X & Y values:
 
 ![001](https://user-images.githubusercontent.com/94747031/199067370-21f6e068-3851-4596-bad3-35dc02d079a6.png)
 
 ![002](https://user-images.githubusercontent.com/94747031/199067368-23904c41-d2d1-4e62-83d0-29a65b810abe.png)
 
+### Exam score 1&2:
+
 ![003](https://user-images.githubusercontent.com/94747031/199067364-67b76106-9b8d-4758-a093-ec7e7f4b2d32.png)
 
+### Graph:
+
 ![004](https://user-images.githubusercontent.com/94747031/199067359-63750fd2-98e8-438d-a32c-ae84cb1d27e4.png)
+
+### Gradient values:
 
 ![005](https://user-images.githubusercontent.com/94747031/199067356-69f818c1-d425-48e8-beb3-281e00b6ecba.png)
 
@@ -130,7 +137,11 @@ np.mean(predict(res.x,X)==y)
 
 ![007](https://user-images.githubusercontent.com/94747031/199067351-3e334116-ed7b-441b-93e6-20737be81d24.png)
 
+### Plot Decision Boundary:
+
 ![008](https://user-images.githubusercontent.com/94747031/199067346-56d58684-54aa-478a-98ac-f9841f1b846e.png)
+
+### Probabilities:
 
 ![009](https://user-images.githubusercontent.com/94747031/199067342-fbdbcd76-c1d0-4fb3-95cb-d847e85e0d51.png)
 
